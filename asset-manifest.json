@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coming-soon/static/css/main.e6163644.chunk.css",
+    "main.js": "/coming-soon/static/js/main.25005530.chunk.js",
+    "main.js.map": "/coming-soon/static/js/main.25005530.chunk.js.map",
+    "runtime-main.js": "/coming-soon/static/js/runtime-main.9c3e133f.js",
+    "runtime-main.js.map": "/coming-soon/static/js/runtime-main.9c3e133f.js.map",
+    "static/js/2.568b4bfd.chunk.js": "/coming-soon/static/js/2.568b4bfd.chunk.js",
+    "static/js/2.568b4bfd.chunk.js.map": "/coming-soon/static/js/2.568b4bfd.chunk.js.map",
+    "index.html": "/coming-soon/index.html",
+    "precache-manifest.6bccdb15d12b4d8cde7e77ac53748884.js": "/coming-soon/precache-manifest.6bccdb15d12b4d8cde7e77ac53748884.js",
+    "service-worker.js": "/coming-soon/service-worker.js",
+    "static/css/main.e6163644.chunk.css.map": "/coming-soon/static/css/main.e6163644.chunk.css.map",
+    "static/js/2.568b4bfd.chunk.js.LICENSE.txt": "/coming-soon/static/js/2.568b4bfd.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/coming-soon/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/facebook.50f13391.svg": "/coming-soon/static/media/facebook.50f13391.svg",
+    "static/media/github.baf48a32.svg": "/coming-soon/static/media/github.baf48a32.svg",
+    "static/media/insta.04f1d872.svg": "/coming-soon/static/media/insta.04f1d872.svg",
+    "static/media/twitter.a50716dd.svg": "/coming-soon/static/media/twitter.a50716dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c3e133f.js",
+    "static/js/2.568b4bfd.chunk.js",
+    "static/css/main.e6163644.chunk.css",
+    "static/js/main.25005530.chunk.js"
+  ]
+}
